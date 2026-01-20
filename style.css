@@ -10,7 +10,7 @@ body {
   font-family: 'Montserrat', Arial, sans-serif;
   background-color: #021140;
   color: #f0f0f0;
-  background-image: url("freedom .jpg");
+  background-image: url("freedom\ .jpg");
   background-size: cover;
   background-repeat: repeat-y;
   background-attachment: fixed;
